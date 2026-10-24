@@ -2,6 +2,8 @@
 
 # Keel
 
+> **Keel has moved to [fleet](https://github.com/FranciscoNunes-dxspark/fleet/tree/main/apps/keel)**, the family's one repository. Its releases are there now, tagged `keel-v<version>`; an installed Keel updates itself from them. This repository is kept for its history.
+
 A tech lead's console for Azure DevOps
 
 A local Node.js app for a tech lead who works across several Azure DevOps projects and repos. It shows what needs you right now, such as reviews waiting on you, red pipelines, blocked work and stale PRs. You can act on most of it without opening Azure DevOps.
